@@ -1,0 +1,8 @@
+The Films Menu options.
+Enter:
+1. Print all Films.
+2. Add a Films.
+3. Update a Films.
+4. Delete a Films.
+5. Report.
+6. Exit the Films App.
